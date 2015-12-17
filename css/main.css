@@ -1,0 +1,52 @@
+body {
+    margin: 8px;
+}
+
+p {
+    margin: 8px 0px;
+}
+
+.head {
+    width: 300px;
+}
+
+.head #input{
+    width: 100%;
+    display: inline-block;
+}
+
+.head #btn{
+    margin-left: 8px;
+    display: inline-block;
+}
+
+.content {
+	white-space:nowrap;  
+}
+
+.nav{
+	display: inline-block;
+	font-size:13px;
+	height: 30px;
+    line-height: 30px;
+   white-space:nowrap;  
+   width:100%;
+}
+.nav #about {
+  	display: inline-block;
+   width:210px;
+	
+}
+.nav #btn{	
+
+	margin:8px;
+	font-size:13px;
+	height: 30px;
+    line-height: 30px;	
+	right:10px;
+}
+.content #qrcode{ 
+	width:200px;   
+	text-align:center;
+	margin:-21px auto 8px auto;
+}
