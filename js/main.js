@@ -18,8 +18,8 @@
 		options.text = tab.url;
 
 		$input.value = options.text;
-
 		qrcode = new QRCode("qrcode", options);
+		$input.select();
 	});
 	document.onkeydown=function(){
 	 if(event.keyCode==13)   

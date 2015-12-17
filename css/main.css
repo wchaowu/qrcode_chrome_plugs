@@ -8,9 +8,12 @@ p {
 
 .head {
     width: 300px;
+ 
 }
 
 .head #input{
+	height: 24px;
+    line-height: 24px;
     width: 100%;
     display: inline-block;
 }
@@ -48,5 +51,5 @@ p {
 .content #qrcode{ 
 	width:200px;   
 	text-align:center;
-	margin:-21px auto 8px auto;
+	margin:-21px auto 15px auto;
 }
