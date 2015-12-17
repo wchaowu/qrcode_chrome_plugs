@@ -1,6 +1,6 @@
 # qrcode_chrome_plugs
 ## install
- 下载： chrome-plugins-qrcode.crx
+ 下载：<a href="https://github.com/wchaowu/qrcode_chrome_plugs/releases/download/1.0.0/chrome-plugins-qrcode.crx"> chrome-plugins-qrcode.crx </a>
  将文件拖到，chrome插件库选项，进行安装
   ![image](img/plugs_install2.png)
   ![image](img/plugs_install.png)
