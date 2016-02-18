@@ -4,6 +4,7 @@
  将文件拖到，chrome插件库选项，进行安装
   ![image](img/plugs_install2.png)
   ![image](img/plugs_install.png)
+   ![image](img/qrcode-img.png)
 
 ## 功能:
 1. 默认根据当前页面路径的URL生成二维码
